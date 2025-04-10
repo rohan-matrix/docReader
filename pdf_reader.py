@@ -53,7 +53,7 @@ class DocReader:
 
 def main():
     # Hardcoded Gemini API key (replace with your actual key)
-    GEMINI_API_KEY = "AIzaSyBMwhDazSu0SpxyLcQBt8Rh5Pmu7cod3uM"  # Replace with your actual Gemini API key
+    GEMINI_API_KEY = "2131312312124124124"  # Replace with your actual Gemini API key
 
     if not GEMINI_API_KEY:
         print("Error: Gemini API key is missing. Please add your API key to the script.")
